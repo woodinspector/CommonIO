@@ -1,4 +1,4 @@
-# CommonIO
+# ContrIO
 
 > Arduino library that makes handling **Input** and **Output** easier. There are many useful features for using 
 **buttons**, **encoders** and **triggers**.
