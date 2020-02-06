@@ -1,17 +1,17 @@
 {
-    "name": "CommonIO",
+    "name": "ContrIO",
     "keywords": "input, output, execute, on, off, switch, onfor, trigger",
     "description": "Arduino library for common input/output tasks",
     "repository":
     {
         "type": "git",
-        "url": "https://github.com/mprostakk/CommonIO.git"
+        "url": "https://github.com/woodinspector/ContrIO.git"
     },
     "authors":
     {
-        "name": "Maciej Prostak",
-        "email": "maciekprostak@gmail.com",
-        "url": "https://github.com/mprostakk",
+        "name": "Woodinspector",
+        "email": "grzegorz.kotnarowski@gmail.com",
+        "url": "https://github.com/woodinspector",
         "maintainer": true
     },
     "version": "1.0.2",
